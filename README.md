@@ -1,1 +1,2 @@
-Emotion detection web application built with Flask and the Watson NLP library. 
+# Emotion Detector
+Emotion detection web application built with Flask and the Watson NLP library.
